@@ -1,3 +1,5 @@
+#Animated login page
+
 Introducing a captivating animated login page crafted with the magic of CSS! As users enter the realm of authentication, they are welcomed by a seamless blend of style and functionality.
 
 The background subtly transitions through a spectrum of soothing colors, creating a visually engaging experience. A sleek and modern login form takes center stage, adorned with smooth animations that bring the page to life.
