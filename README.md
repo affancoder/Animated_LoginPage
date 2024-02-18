@@ -1,4 +1,4 @@
-##Animated login page
+# Animated login page
 
 Introducing a captivating animated login page crafted with the magic of CSS! As users enter the realm of authentication, they are welcomed by a seamless blend of style and functionality.
 
