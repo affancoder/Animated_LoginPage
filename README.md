@@ -1,4 +1,8 @@
-# Animated login page
+# Animated login Page
+
+https://github.com/affancoder/Animated_LoginPage/assets/113276865/21541008-d50e-4fac-acb7-01254de5b778
+
+in page
 
 Introducing a captivating animated login page crafted with the magic of CSS! As users enter the realm of authentication, they are welcomed by a seamless blend of style and functionality.
 
